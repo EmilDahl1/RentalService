@@ -1,7 +1,5 @@
 
-# Fortnox Car rental
-
-Code regarding fortnox code test "Miniature car rental app".
+# Car rental microservice
 
 A user can submit a rental form to the database.
 The admin can see all submitted rental applications and a calculated estimated revenue.
